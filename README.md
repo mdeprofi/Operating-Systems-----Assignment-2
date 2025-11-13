@@ -1,8 +1,8 @@
 # Operating-Systems-----Assignment-2
 
 The repository contains the following files:
-1. bankers.c - Contains the implementation for the Banker's Algorithm in C.
-2. input.txt - Input file that provides the initial resource allocation, maximum resource needs, and available resources for the system.
+1. `bankers.c` - Contains the implementation for the Banker's Algorithm in C.
+2. `input.txt` - Input file that provides the initial resource allocation, maximum resource needs, and available resources for the system.
 
 Before any compilation, make sure you are working in a Linux environment. For example, this project was tested on the Kent State University hornet server. 
 
