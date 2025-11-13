@@ -9,22 +9,22 @@ Before any compilation, make sure you are working in a Linux environment. For ex
 Step 1: Creating The Files
 Once in your Linux environment, you need to create both the bankers and input files:
 
-touch bankers.c
+`touch bankers.c`
 
-touch input.txt
+`touch input.txt`
 
 After creating your files, copy the provided C source code into bankers.c, and the resource data into input.txt.
 
 Step 2: Compilation
 In order to run the program you first have to compile it using this command:
 
-gcc bankers.c -o bankers
+`gcc bankers.c -o bankers`
 
 This command will create an executable file called bankers.
 
 Step 3: Execution
 Once the program is compiled, run it using this command:
 
-./bankers
+`./bankers`
 
 This command will run the Banker's Algorithm program.
