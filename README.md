@@ -25,6 +25,7 @@ In order to run the program you first have to compile it using this command:
 This command will create an executable file called bankers.
 
 Step 3: Execution
+
 Once the program is compiled, run it using this command:
 
 `- ./bankers`
