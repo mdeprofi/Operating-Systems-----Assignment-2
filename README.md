@@ -16,6 +16,7 @@ Once in your Linux environment, you need to create both the bankers and input fi
 After creating your files, copy the provided C source code into bankers.c, and the resource data into input.txt.
 
 Step 2: Compilation
+
 In order to run the program you first have to compile it using this command:
 
 `- gcc bankers.c -o bankers`
