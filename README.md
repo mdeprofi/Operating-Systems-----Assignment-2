@@ -7,6 +7,7 @@ The repository contains the following files:
 Before any compilation, make sure you are working in a Linux environment. For example, this project was tested on the Kent State University hornet server. 
 
 Step 1: Creating The Files
+
 Once in your Linux environment, you need to create both the bankers and input files:
 
 `- touch bankers.c`
